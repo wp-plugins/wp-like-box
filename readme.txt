@@ -1,8 +1,6 @@
 === Facebook Like Box ===
 Contributors: umarbajwa
-Tags: badge, buddypress, Facebook, facebook badge, facebook button,
-facebook like, facebook like box, facebook like button, fb like,
-increase traffic, seo, social network, traffic, sales, price
+Tags: badge, buddypress, Facebook, facebook badge, facebook button,facebook like, facebook like box, facebook like button, fb like,increase traffic, seo, social network, traffic, sales, price
 Requires at least: 3.0
 Tested up to: 4.3
 Stable tag: 1.0
